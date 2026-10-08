@@ -8,6 +8,7 @@
 ### Алгоритм:
 
 ### Блок-схема:
+<img width="482" height="442" alt="лаб6дз" src="https://github.com/user-attachments/assets/7528f4ca-1762-44cd-912c-cb0d5a47f7e2" />
 
 ## 2. Реализация программы
 ```c
